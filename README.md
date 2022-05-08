@@ -28,8 +28,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/atif-dev/order-summary-card)
-- Live Site URL: [Add live site URL here](https://atif-dev.github.io/order-summary-card/)
+- Solution URL:  https://github.com/atif-dev/order-summary-card
+- Live Site URL: https://atif-dev.github.io/order-summary-card/
 
 ## My process
 
