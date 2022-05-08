@@ -30,6 +30,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - Solution URL:  https://github.com/atif-dev/order-summary-card
 - Live Site URL: https://atif-dev.github.io/order-summary-card/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=89b4dgebXGpv_ODz6MK02w
 
 ## My process
 
