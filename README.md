@@ -24,7 +24,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](https://github.com/atif-dev/order-summary-card/blob/main/screenshot.png)
+![PC View](https://github.com/atif-dev/order-summary-card/blob/main/screenshot.png)
 
 ### Links
 
