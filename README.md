@@ -28,9 +28,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL:  https://github.com/atif-dev/order-summary-card
+- Frontend Mentor solution url:  https://github.com/atif-dev/order-summary-card
 - Live Site URL: https://atif-dev.github.io/order-summary-card/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=89b4dgebXGpv_ODz6MK02w
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=9ZCeJWWtUoYyrsriov4lFg
 
 ## My process
 
