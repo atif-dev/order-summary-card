@@ -47,11 +47,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - How CSS Grid works
 - We can use id in \<br>(ex: \<br id="xyz">)
 - We can create \<br> using CSS (How? Check: https://www.educative.io/edpresso/how-to-add-a-line-break-using-css)
-- Android don't support .svg files(I moved project files to Android>check index.html>Images didn't show up)
+- Android does not support .svg files(I moved project files to Android>check index.html>Images didn't show up)
 
 ### Continued development
 
-I choosed a simple challenge from frontendmentor. I will try to complete more challenges. My strategy will be to go easiest to complex challenges. 
+I choosed a simple challenge from frontendmentor. I will try to complete more challenges. My strategy will be to go from easiest to complex challenges. 
 
 ### Useful resources
 
